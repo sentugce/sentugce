@@ -9,6 +9,7 @@
 📫 Feel free to reach out to me at sntuce@gmail.com for any inquiries.
 
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://tr.reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
 
 <!---
 sentugce/sentugce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
