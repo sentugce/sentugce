@@ -8,7 +8,7 @@
 
 📫 Feel free to reach out to me at sntuce@gmail.com for any inquiries.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sentugce/sentugce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
