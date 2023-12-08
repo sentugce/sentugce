@@ -5,6 +5,8 @@
 📫 Feel free to reach out to me at sntuce@gmail.com for any inquiries.
 
 [![Meteor.js](https://img.shields.io/badge/Meteor.js-DF4E96?logo=meteor&logoColor=white)](https://www.meteor.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://tr.reactjs.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
